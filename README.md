@@ -1,0 +1,1 @@
+# ComunicazioneComponenti.D
